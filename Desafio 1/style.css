@@ -1,0 +1,35 @@
+.main {background-color: orange;}
+
+.header {
+    background-color: black;
+}
+.logo {
+    margin-left: 45%; margin-right: 50%; width: 90px; border: dashed 3px white;
+}
+.dbz-div1 {
+    background-color: black; font-family: sans-serif;
+    font-size: 75px; color: white; text-align: center;
+}
+.dbz-img {
+    width: 75%; margin-left: 25px; margin-right: 25px; height: 450px; position: static;
+}
+.dbz-content {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: left;
+    justify-items: left;
+    border: solid 1px white;
+}
+.dbz-img2 {
+    width: 85%; height: 250px; margin-left: 10px; margin-right: 10px; margin-top: 5px;
+}
+.form {
+    text-align: justify;
+    font-size: 25px;
+}
+.registrar {
+    color: white;
+    background-color: black;
+    max-width: 50;
+    -ms-flex-align: center;
+}
