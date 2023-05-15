@@ -1,0 +1,33 @@
+div {
+    border: 3px;
+    border-radius: 3px;
+    border-color: #D3D3D3;
+    background-color: #D3D3D3;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+}
+
+.imagem {
+    width: 400px;
+    height: 300px;
+}
+
+header {
+    border: 3px;
+    border-color: #D3D3D3;
+    background-color: #D3D3D3;
+    display: inline-block;
+    align-items: center;
+}
+
+button {
+    border-radius: 10px;
+    background-color: blue;
+    font-family: cursive;
+}
+
+.main {
+    font-family: cursive;
+}
